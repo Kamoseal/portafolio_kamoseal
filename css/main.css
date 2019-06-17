@@ -1,0 +1,43 @@
+h1, h3, h5{
+     font-family: 'Special Elite', cursive;
+     margin: 3%;
+}
+
+#kamosealImg {
+     background-image: url(../assets/Kamoseal.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+.lead{
+     font-family: 'Special Elite', cursive;
+}
+.background-transparent{
+     background-color: rgba(0, 0, 0, 0.5);
+     color:#000;
+}
+.img-aline{
+     width: 3rem;
+     height: 3rem;
+}
+.size-img{
+     width: 60%;
+     height: 60%;
+}
+.size-img-uni{
+     width: 30%;
+     height: 30%;
+     margin-left: 5%;
+     margin-top: -5%;
+}
+.size-block{
+     font-family: 'Special Elite', cursive;
+     padding: 1% 6%;
+}
+section div div #multiCollapseExample1 div ul{
+     margin-top: -3%;
+}
+section div div #multiCollapseExample1 div ul li{
+     margin-top: 2%;
+
+}
