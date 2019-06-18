@@ -1,4 +1,4 @@
-h1, h3, h5{
+h1, h3, h4, h5{
      font-family: 'Special Elite', cursive;
      margin: 3%;
 }
@@ -33,6 +33,19 @@ h1, h3, h5{
 .size-block{
      font-family: 'Special Elite', cursive;
      padding: 1% 6%;
+}
+.m-t{
+     margin-top: 3rem;
+}
+.box-button{
+     height: 10rem;
+}
+.img-size{
+     width: 13rem;
+     height: 13rem;
+}
+.box-corousel{
+     height: 20rem; 
 }
 section div div #multiCollapseExample1 div ul{
      margin-top: -3%;
