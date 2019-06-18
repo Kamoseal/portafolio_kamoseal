@@ -54,3 +54,6 @@ section div div #multiCollapseExample1 div ul li{
      margin-top: 2%;
 
 }
+footer ul li{
+     list-style: none;
+}
